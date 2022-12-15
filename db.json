@@ -23,5 +23,8 @@
       "id": 2
     }
   ],
-  "user" : []
+  "user" : {
+    "name" : "",
+    "password" : ""
+  }
 }
