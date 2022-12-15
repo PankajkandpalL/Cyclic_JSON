@@ -1,7 +1,7 @@
 {
   "books": [
     {
-      "id":1,
+      "id": 1,
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
@@ -10,6 +10,18 @@
       "publisher": "Bloomsbury",
       "cost": 1299,
       "borrowed": false
+    },
+    {
+      "image_url": "https://t4.ftcdn.net/jpg/02/33/28/33/360_F_233283333_67jJMafbgEwtHxgubbqZk9ItnrYFlOOi.jpg",
+      "book_name": "Beloved",
+      "author": "Toni Morrison",
+      "genre": "Fiction",
+      "edition": "2021",
+      "publisher": "Alfred A. Knopf Inc",
+      "cost": "2000",
+      "borrowed": false,
+      "id": 2
     }
-  ]
+  ],
+  "user" : []
 }
